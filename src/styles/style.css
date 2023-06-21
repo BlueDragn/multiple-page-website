@@ -1,22 +1,19 @@
 body{
     margin: 0;
     padding: 0;
+    background-color: white;
 
 }
-
-.menu{
+header{
 
 background-color: rgb(59, 159, 46);
 }
-.list{
-    display: flex;
-    list-style: none;
-    justify-content: flex-end;
-    align-items: center;
-
-
-
+.hero-sec{
+    border: 1px solid red;
 }
-.list > li > a{
-    text-decoration: none;
+.design-sec{
+    border: 1px solid black;
+}
+.intro-sec{
+    border: 1px solid blue;
 }
