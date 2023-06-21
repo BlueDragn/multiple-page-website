@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+
+.menu{
+
+background-color: rgb(59, 159, 46);
+}
+.list{
+    display: flex;
+    list-style: none;
+    justify-content: flex-end;
+    align-items: center;
+
+
+
+}
+.list > li > a{
+    text-decoration: none;
+}
